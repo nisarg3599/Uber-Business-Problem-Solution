@@ -1,12 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Uber Business Problem Solution</title>
-</head>
-
 <body>
     <h1>Uber Business Problem Solution</h1>
     <h2>Overview</h2>
@@ -28,8 +22,6 @@
             </ul>
         </li>
     </ol>
-    <h2>Video Introduction</h2>
-    <p>Watch the <a href="https://youtube.com/your-video-link">introduction video</a> for a detailed explanation of the business problem and the objectives of this analysis.</p>
     <h2>Data</h2>
     <p>The dataset used for this analysis is masked and simulates real-world scenarios encountered by Uber analysts. The data includes information on ride requests, driver behavior, and other relevant factors.</p>
     <h2>Analysis Steps</h2>
