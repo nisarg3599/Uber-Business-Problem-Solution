@@ -48,7 +48,7 @@
     <h2>Getting Started</h2>
     <ol>
         <li>Clone the repository:
-            <pre><code>git clone https://github.com/your-username/uber-business-problem.git</code></pre>
+            <pre><code>git clone https://github.com/nisarg3599/uber-business-problem-solution.git</code></pre>
         </li>
         <li>Navigate to the project directory:
             <pre><code>cd uber-business-problem</code></pre>
@@ -59,9 +59,7 @@
     </ol>
     <h2>Contributions</h2>
     <p>Contributions are welcome! If you have ideas for improvements or additional analyses, please submit a pull request or open an issue to discuss your suggestions.</p>
-    <h2>License</h2>
-    <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-
+    
 </body>
 
 </html>
